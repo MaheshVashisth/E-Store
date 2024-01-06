@@ -1,6 +1,6 @@
 # E-Commerce Project
 
-Welcome to the E-Store Project! This project is a comprehensive e-commerce solution featuring a full-stack application with frontend, backend, database, payment integration, authentication, and a cart system , Orders and reviews , filters.
+Welcome to the E-Store Project! This project is a comprehensive e-commerce solution featuring a full-stack application with frontend, backend, database, payment integration, authentication, and cart system , Orders and reviews , filters.
 
 ## Table of Contents
 
